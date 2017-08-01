@@ -147,13 +147,13 @@ font-size:12px /*размер иконки 12 пикселей в ширину �
 
 .navigation{
     position: relative;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: #000/*rgba(0, 0, 0, 0.2)*/;
     padding: 0 100px;                    
 }
 .mobile-menu { 
     position: absolute;
-    left: 0;
-    right: 0;                 
+    /*left: 0;
+    right: 0;*/                 
 }                  
 .navigation nav{
     float: left;
@@ -212,10 +212,10 @@ nav li a:hover{
   /*border: 1px solid #CCC;
   border-radius: 0;
   background: #000;*/
-  left: 0;
+  /*left: 0;
   right: 0;
   top: 0;
-  bottom: 0;
+  bottom: 0;*/
 }
 
 .carousel img {
