@@ -649,16 +649,16 @@ nav li a:hover{
     margin-right: 0;    
 }
 .block15-contacts-information ul li {
-    color: red;
-    font-size: 16px;
-    padding: 24px 16px 16px 0;
+    
+    /*font-size: 16px;*/
+    /*padding: 24px 16px 16px 0;*/
     display: inline-block;
-    text-transform: ;/*perebyty uppercase bez lower v block 3*/
-    border-bottom: 7px solid transparent;
+   /* text-transform: ;/*perebyty uppercase bez lower v block 3*/
+    /*border-bottom: 7px solid transparent;*/
 
 }
 .block15-2-inner-contacts-information-before-footer-t-t-t-t{    
-    padding: 50px 50px;
+    padding: 50px 100px;
   
 }
 .block15-inner-static-info-t-t-t-t{
