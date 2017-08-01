@@ -390,8 +390,7 @@ margin-top: 30px;
 .inner-content50-pic-pic-pic {
 /*background: url(img/);*/
 position: relative;
-left: 0;
-right: 0;
+
 }
 .example {
     position: absolute;
@@ -403,10 +402,7 @@ right: 0;
     position: absolute;
     float: right;     
     margin-right: 50px;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
+    
 }
 .example p {
    
